@@ -40,6 +40,10 @@
 </p>
 
 ---
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvanpilli&show_icons=true&theme=radical" alt="sarvanpilli" />
+</p>
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="center">
