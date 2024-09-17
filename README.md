@@ -41,12 +41,6 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvanpilli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF5733&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvanpilli&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <h3 align="left">Most Used Languages:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvanpilli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5733&text_color=FFFFFF" alt="Most Used Languages" />
