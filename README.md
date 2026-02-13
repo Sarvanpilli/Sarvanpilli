@@ -83,12 +83,13 @@ Geospatial ML pipeline ranking top commercial locations using regression & dista
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvanpilli&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sarvanpilli&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvanpilli&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Sarvanpilli&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
