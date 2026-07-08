@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvan Sri Sai Pilli</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Building Intelligent Systems</h3>
+<h3 align="center">AI Engineer | Building Intelligent Systems</h3>
 
 <p align="center">
   <a href="https://github.com/sarvanpilli">
